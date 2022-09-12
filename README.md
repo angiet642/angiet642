@@ -1,8 +1,10 @@
 ### Hello & Welcome to my GitHub! 👋
-- 📫 Feel free to reach me at: angie.c.thai@gmail.com
+📫 Feel free to reach me at: angie.c.thai@gmail.com
 
 #### Hardware Tools 
 - LTspice
+- MultiSim
+- LabVIEW
 - KiCad
 - Altium
 
