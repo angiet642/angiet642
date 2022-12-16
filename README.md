@@ -1,4 +1,4 @@
-### Hello & Welcome to my GitHub! 👋
+### Welcome to my GitHub! 👋
 📫 Feel free to reach me at: angie.c.thai@gmail.com
 
 #### Hardware Tools 
